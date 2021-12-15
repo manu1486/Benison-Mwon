@@ -1,14 +1,14 @@
 {
-    "name": "Nandhutty_v2",
-    "description": "Nandhutty_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "Benison Mwon",
+    "description": "Benison Mwon is the Modified Version of WhatsAsena, Made By @Benison Sir with Baileys.",
     "logo": "https://i.imgur.com/ADXSU8e.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Ajmal-Achu/Nandhutty_v2",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "repository": "https://github.com/manu1486/Manu-bot",
+    "website":   "https://github.com/manu1486/Manu-bot",
+    "success_url": "https://github.com/manu1486/Manu-bot",
     "stack": "container",
     "env": {
-        "JULIE_SESSION": {
+        "BENISON_SESSION": {
             "description": "Type here yours Asena Session.",
             "required": true
         },
@@ -98,7 +98,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "hear me friends"
+            "value": "NANBANS🤩"
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
@@ -123,10 +123,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Nandhutty_v2⤎╾━━━•"
+            "value": "•━━━━╼⤏Benison_Mwon⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Nandhutty Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Benison_Mwon Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -156,12 +156,12 @@
         "SONGD": {
             "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
             "required": true,
-            "value": "*Downloading your song*"
+            "value": "*Downloading your song🎤*"
         },
         "SONGU": {
             "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
             "required": true,
-            "value": "*Feel the song*"
+            "value": "*Feel the song🎵*"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
