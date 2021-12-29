@@ -88,7 +88,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajmal-Achu](https://github.com/Ajmal-Achu.png?size=100)](https://github.com/manu1486) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/manu1486) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajmal-Achu](https://github.com/Ajmal-Achu.png?size=100)](https://github.com/manu1486) |  [![MANU](https://github.com/manu1486.png?size=100)](https://github.com/manu1486) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [Ajmal-Achu](https://github.com/Ajmal-Achu) | [BENISON](https://github.com/manu1486) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
